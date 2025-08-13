@@ -31,7 +31,6 @@ Each pixel is then represented by the closest centroid color, significantly redu
 
 | K Value | Image |
 |---------|-------|
-| Original | ![Original](original.png) |
 | 2 | ![K=2](comp_2.png) |
 | 4 | ![K=4](comp_4.png) |
 | 8 | ![K=8](comp_8.png) |
