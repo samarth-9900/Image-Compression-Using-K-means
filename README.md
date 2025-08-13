@@ -29,9 +29,14 @@ Each pixel is then represented by the closest centroid color, significantly redu
 
 ## Example Output
 
-| Original Image | Compressed Image (K = 2) | Compressed Image (K = 4) | Compressed Image (K = 8) | Compressed Image (K = 16) |
-|----------------|--------------------------|--------------------------|--------------------------|---------------------------|
-| ![Original](original.png) | ![K=2](comp_2.png) | ![K=4](comp_4.png) | ![K=8](comp_8.png) | ![K=16](comp_16.png) |
+| K Value | Image |
+|---------|-------|
+| Original | ![Original](original.png) |
+| 2 | ![K=2](comp_2.png) |
+| 4 | ![K=4](comp_4.png) |
+| 8 | ![K=8](comp_8.png) |
+| 16 | ![K=16](comp_16.png) |
+
 
 
 ---
